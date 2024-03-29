@@ -47,7 +47,7 @@ const Navbar = () => {
         <Link to={'/register'}><li onClick={removenavbar} className="listItem">Register</li></Link>
           </ul>
           </div>
-          <div>
+          <div className='menu'>
             <Link to={'/application'}><button className="btn flex btnOne"> Apply Now </button></Link> 
             </div>
 
