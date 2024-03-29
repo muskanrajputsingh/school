@@ -30,8 +30,7 @@ function App() {
         <Route path='/login' element={<Login/>} />
         <Route path='/applications' element={<Application/>} />
       </Routes>
-
-     <Footer />
+    <Footer />
      </div>
     </>
   )
