@@ -9,6 +9,9 @@
     padding: 1rem;
     width: 100%;
 }
+.navbarTwo ul{
+text-align: center;
+}
 .navbarOne{
     background:whitesmoke;
 }
@@ -24,6 +27,10 @@
 }
 #lists{
     display: flex;
+    padding-right:220px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top:20px;
 }
 .atb{
     gap: 1rem;

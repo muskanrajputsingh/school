@@ -1,8 +1,11 @@
-import React from 'react'
+import React from 'react';
+import Tab from '../Tabs/Tab';
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <>
+    <Tab />
+    </>
   )
 }
 

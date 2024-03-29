@@ -40,12 +40,14 @@ const Navbar = () => {
             </div>
             <div id='lists' className={active}>
          <ul className="menu flex">
-        <Link to={'/'}><li onClick={removenavbar} className="listItem">Home</li></Link>
+        <Link to={'/school/'}><li onClick={removenavbar} className="listItem">Home</li></Link>
         <Link to={'/about'}><li onClick={removenavbar} className="listItem">About</li></Link>
         <Link to={'/achivement'}><li onClick={removenavbar} className="listItem">Achivement</li></Link>
-        <Link to={'/contact'}><li onClick={removenavbar} className="listItem">Contact</li></Link>
+        <Link to={'/contact'}><li onClick={removenavbar} className="listItem">Courses</li></Link>
         <Link to={'/register'}><li onClick={removenavbar} className="listItem">Register</li></Link>
           </ul>
+          </div>
+          <div>
             <Link to={'/application'}><button className="btn flex btnOne"> Apply Now </button></Link> 
             </div>
 

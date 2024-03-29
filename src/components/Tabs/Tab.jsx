@@ -14,7 +14,7 @@ const Tab = () => {
   return (
     <div className="tab-box" data-aos="fade-right">
         <div className="tab-box1" data-aos="flip-left">
-         <img src="https://www.gits.ac.in/wp-content/uploads/2016/01/group.png" alt="" />
+         <img src="https://www.pngall.com/wp-content/uploads/8/Child-Student-PNG-Picture.png" alt="" />
         </div>
         <div className="container1"><br />
          <h1>Our Courses 📚</h1>
