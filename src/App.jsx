@@ -52,3 +52,17 @@ export default App
       <Route exact path='/about' component={About} />
       <Route exact path='/admission' Component={Admission} />
     </Routes> */}
+
+//     <!doctype html>
+// <html lang="en">
+// <head>
+//   <meta charset="UTF-8" />
+//   <link rel="icon" type="image/svg+xml" href="/school/" />
+//   {% comment %} <link rel="stylesheet" crossorigin href="/school/assets/index-iFdOE_d2.css"> {% endcomment %}
+//   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+//   <title>School Management</title>
+// </head>
+// <body>
+//   <div id="root"></div>
+// </body>
+// </html>
